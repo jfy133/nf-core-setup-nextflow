@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         nextflow_version:
-          - "21.10.2"
+          - "21.10.1"
           - "22.04"
           - "22.03.1-edge"
           - "latest"
